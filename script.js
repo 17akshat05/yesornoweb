@@ -34,7 +34,7 @@ nextBtn.addEventListener('click', () => {
         showQuestion(currentQuestionIndex);
         nextBtn.style.display = 'none';
     } else {
-        alert("You've completed the quiz!");
+        alert("YOU ARE NOT FROM THIS WORLD🤣🤣");
     }
 });
 
