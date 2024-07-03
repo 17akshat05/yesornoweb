@@ -34,7 +34,7 @@ nextBtn.addEventListener('click', () => {
         showQuestion(currentQuestionIndex);
         nextBtn.style.display = 'none';
     } else {
-        alert("YOU ARE NOT FROM THIS WORLD🤣🤣");
+        alert("YOU ARE NOT FROM THIS WORLD");
     }
 });
 
